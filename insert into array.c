@@ -37,4 +37,10 @@ else
 {
     printf("array consist %d elements enter the %d element", n-1,n);
     scanf("%d",&a[n]);
-}}
+    for(i=0;i<=n; i++)
+    {
+        printf("  %d",a[i]);
+        
+    }
+}
+}
